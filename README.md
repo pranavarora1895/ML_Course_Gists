@@ -14,5 +14,6 @@
 1.  Random Forest Regression - https://gist.github.com/pranavarora1895/e0c26b9ba5bf7ff1fa82f941d5118574
 1.  Model Selection Template for Regression - https://gist.github.com/pranavarora1895/bf47ce27cd6baf15c5417752cb0e7017
 
-
+> ## Classification
+1. Logistic Regression - https://gist.github.com/pranavarora1895/59ea8262a7c4e163fda8e5786704815c
 
