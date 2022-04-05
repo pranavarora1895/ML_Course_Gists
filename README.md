@@ -12,7 +12,7 @@
 1.  Support Vector Regression - https://gist.github.com/pranavarora1895/084049e92723042fd35dc4d8e43ce210
 1.  Decision Tree Regression - https://gist.github.com/pranavarora1895/62830e07fad5b57fe6589a4666776d27
 1.  Random Forest Regression - https://gist.github.com/pranavarora1895/e0c26b9ba5bf7ff1fa82f941d5118574
-1.  Model Selection Template for Regression - https://gist.github.com/pranavarora1895/bf47ce27cd6baf15c5417752cb0e7017
+1.  Model Selection Template - https://gist.github.com/pranavarora1895/bf47ce27cd6baf15c5417752cb0e7017
 
 > ## Classification
 1. Logistic Regression - https://gist.github.com/pranavarora1895/59ea8262a7c4e163fda8e5786704815c
