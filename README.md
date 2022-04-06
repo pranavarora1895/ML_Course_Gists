@@ -17,3 +17,6 @@
 > ## Classification
 1. Logistic Regression - https://gist.github.com/pranavarora1895/59ea8262a7c4e163fda8e5786704815c
 
+> ## Case Studies
+1. Breast Cancer Detection(Logistic Regression) - https://gist.github.com/pranavarora1895/3940e02df8e84e4394fd4a509a0906b9
+
