@@ -16,6 +16,7 @@
 
 > ## Classification
 1. Logistic Regression - https://gist.github.com/pranavarora1895/59ea8262a7c4e163fda8e5786704815c
+2. K-Nearest Neighbors - https://gist.github.com/pranavarora1895/146f36f8911b874e4bc4e7d3a3c74c54
 
 > ## Case Studies
 1. Breast Cancer Detection(Logistic Regression) - https://gist.github.com/pranavarora1895/3940e02df8e84e4394fd4a509a0906b9
