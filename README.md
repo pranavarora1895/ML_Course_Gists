@@ -17,6 +17,11 @@
 > ## Classification
 1. Logistic Regression - https://gist.github.com/pranavarora1895/59ea8262a7c4e163fda8e5786704815c
 2. K-Nearest Neighbors - https://gist.github.com/pranavarora1895/146f36f8911b874e4bc4e7d3a3c74c54
+3. SVM - https://gist.github.com/pranavarora1895/a8b591c600c25dd64f03054e4822dd87
+4. Kernel SVM - https://gist.github.com/pranavarora1895/5b3a634556e194feee293a106297124a
+5. Naive Bayes - https://gist.github.com/pranavarora1895/9f91ca1ae998b5c55fda24d5a56b8c57
+6. Decision Tree Classification - https://gist.github.com/pranavarora1895/894a15cbf9ee82e3ca44acb1f3234531
+7. Random Forest Classification - https://gist.github.com/pranavarora1895/fc081cded6340ebc46a8b452155d466d
 
 > ## Case Studies
 1. Breast Cancer Detection(Logistic Regression) - https://gist.github.com/pranavarora1895/3940e02df8e84e4394fd4a509a0906b9
