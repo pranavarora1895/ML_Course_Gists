@@ -23,6 +23,9 @@
 6. Decision Tree Classification - https://gist.github.com/pranavarora1895/894a15cbf9ee82e3ca44acb1f3234531
 7. Random Forest Classification - https://gist.github.com/pranavarora1895/fc081cded6340ebc46a8b452155d466d
 
+> ## Unsupervised Learning
+1. K-Means Clustering - https://gist.github.com/pranavarora1895/b6933b5eff9a8e1db55d2fbb3e07450b
+
 > ## Case Studies
 1. Breast Cancer Detection(Logistic Regression) - https://gist.github.com/pranavarora1895/3940e02df8e84e4394fd4a509a0906b9
 
