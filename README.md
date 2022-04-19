@@ -25,6 +25,7 @@
 
 > ## Unsupervised Learning
 1. K-Means Clustering - https://gist.github.com/pranavarora1895/b6933b5eff9a8e1db55d2fbb3e07450b
+2. Hierarchical Clustering - https://gist.github.com/pranavarora1895/2f7827a78d1f2dd5cb5cbf7de7432fb4
 
 > ## Case Studies
 1. Breast Cancer Detection(Logistic Regression) - https://gist.github.com/pranavarora1895/3940e02df8e84e4394fd4a509a0906b9
