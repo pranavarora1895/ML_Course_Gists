@@ -29,6 +29,7 @@
 
 > ## Association Rule Learning
 1. Apriori - https://gist.github.com/pranavarora1895/e84538e83f1e77306f4012437ef0718f
+2. Eclat - https://gist.github.com/pranavarora1895/acf644381090003b4ee4d0837382dfab
 
 > ## Case Studies
 1. Breast Cancer Detection(Logistic Regression) - https://gist.github.com/pranavarora1895/3940e02df8e84e4394fd4a509a0906b9
