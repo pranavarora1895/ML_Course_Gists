@@ -31,6 +31,9 @@
 1. Apriori - https://gist.github.com/pranavarora1895/e84538e83f1e77306f4012437ef0718f
 2. Eclat - https://gist.github.com/pranavarora1895/acf644381090003b4ee4d0837382dfab
 
+> ## Reinforcement Learning
+1. Upper Confidence Bound - https://gist.github.com/pranavarora1895/d5b37f15d705e9178f07abee1a8ca2a2
+
 > ## Case Studies
 1. Breast Cancer Detection(Logistic Regression) - https://gist.github.com/pranavarora1895/3940e02df8e84e4394fd4a509a0906b9
 
